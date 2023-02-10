@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    background-color: #141519;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Overpass', sans-serif;
+}
+.container {
+    border: 1px;
+    border-radius: 30px;
+    background-color: #1F2630;
+    height: 330px;
+    width: 25%;
+    min-width: 330px;
+    align-items: center;
+    padding: 30px;
+    margin: 0px auto;
+    margin-top: 150px;
+    font-weight: 700;
+}
+h2 {
+    color: white;
+}
+p {
+    color: #959CA6;
+    font-size: 15px;
+}
+img {
+    border: 1px;
+    border-radius: 30px;
+    background-color: #222F3C;
+    padding: 8px;
+}
+.box1 {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.box1 button {
+    padding: 0;
+    border: 0;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.ground {
+    width: 100%;
+    margin-top: 20px;
+    background-color: white;
+    padding: 15px 0px;
+    border-radius: 20px;
+    color: tomato;
+    border: none;
+    cursor: pointer;
+}
+.circle1 {
+    background-color: #262F38;
+    color: #959CA6;
+}
+.circle1:hover{
+    background-color: #7C8898;
+    color: white;
+}
+.circle2 {
+    background-color: #262F38;
+    color: #959CA6;
+}
+.circle2:hover{
+    background-color: #7C8898;
+    color: white;
+}
+.circle3 {
+    background-color: #262F38;
+    color: #959CA6;
+}
+.circle3:hover{
+    background-color: #7C8898;
+    color: white;
+}
+.circle4 {
+    background-color: #7C8898;
+    color: white;
+}
+.circle5 {
+    background-color: #FC7615;
+    color: white;
+}
